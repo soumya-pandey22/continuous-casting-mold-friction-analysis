@@ -1,0 +1,1 @@
+# continuous-casting-mold-friction-analysis
