@@ -1,4 +1,4 @@
-# Continuous Casting Mold Friction Calculation from Hydraulic Force Data 🏭
+# Continuous Casting Mold Friction Calculation from the Available Hydraulic Force Data 🏭
 
 ## Overview
 This project focuses on the calculation of mold friction 
