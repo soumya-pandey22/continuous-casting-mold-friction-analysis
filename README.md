@@ -104,7 +104,7 @@ data points from the graph images.
 
 ## Tools Used
 - Python (Jupyter Notebook)
-- Pandas, Matplotlib
+- Pandas, Matplotlib, Numpy, Scipy
 - Microsoft Excel
 - PlotDigitizer PRO
 
